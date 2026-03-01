@@ -95,34 +95,93 @@ Pada bagian ini, saya menampilkan beberapa sertifikat atau pencapaian yang saya 
 
 <img width="500" height="524" alt="image" src="https://github.com/user-attachments/assets/4c638527-4900-4589-a345-923c8c626294" />
 
+Bagian navbar menggunakan komponen Bootstrap:
+
+▪ navbar, navbar-expand-lg, dan bg-light untuk tampilan navigasi.
+
+▪ fixed-top agar navbar tetap berada di atas saat halaman di-scroll.
+
+▪ navbar-toggler digunakan agar menu dapat collapse pada layar kecil.
+
+▪ href="#home", #about, dan #certificates berfungsi untuk menghubungkan ke setiap section.
+
 ❸ 𝙷𝚘𝚖𝚎 (𝙷𝚎𝚛𝚘 𝚂𝚎𝚌𝚝𝚒𝚘𝚗)
 
 <img width="500" height="628" alt="image" src="https://github.com/user-attachments/assets/918ea2fa-2c3c-4df9-a386-4aa247609f33" />
+
+Section ini menggunakan:
+
+▪ container, row, dan col-md-6 dari Bootstrap Grid System untuk membagi layout menjadi dua kolom (teks dan gambar).
+
+▪ display-6 untuk ukuran teks utama.
+
+▪ text-muted untuk membuat warna teks lebih lembut.
+
+▪ btn btn-primary btn-lg untuk membuat tombol Contact Me dengan gaya Bootstrap.
+
+▪ img-fluid agar gambar responsif.
+
+▪ rounded-3 untuk membuat sudut gambar melengkung.
+
+Bagian ini berfungsi sebagai tampilan pembuka yang menampilkan identitas dan minat saya.
 
 ❹ 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 𝚂𝚎𝚌𝚝𝚒𝚘𝚗
 
 <img width="500" height="323" alt="image" src="https://github.com/user-attachments/assets/4ce6875b-d016-4af2-9a3e-242f028d7dd7" />
 
+Pada bagian ini:
+
+▪ Menggunakan container dan row untuk membagi konten menjadi dua kolom.
+
+▪ Terdapat deskripsi profil diri.
+
+▪ Hard Skills ditampilkan dalam bentuk list <ul>.
+
+▪ Soft Skills ditampilkan menggunakan progress bar custom dengan div dan pengaturan width untuk menunjukkan persentase kemampuan.
+
+▪ Bagian pengalaman menggunakan card sederhana (exp-card) yang berisi judul, deskripsi, dan gambar.
+
+▪ Section ini berfungsi untuk menjelaskan latar belakang, kemampuan, dan pengalaman saya.
+
 ❺ 𝘊𝘦𝘳𝘵𝘪𝘧𝘪𝘤𝘢𝘵𝘦𝘴 𝘚𝘦𝘤𝘵𝘪𝘰𝘯
 
 <img width="500" height="302" alt="image" src="https://github.com/user-attachments/assets/e6af2dbb-b4be-488f-820c-61a40fdc5e09" />
 
+Section ini menggunakan:
+
+▪ row dan col-md-6 col-lg-3 untuk membagi 4 card dalam satu baris pada layar besar.
+
+▪ Komponen card Bootstrap untuk menampilkan sertifikat.
+
+▪ img-fluid dan rounded-3 untuk tampilan gambar yang responsif dan rapi.
+
+▪ text-center dan text-muted untuk pengaturan teks.
+
+Bagian ini berfungsi untuk menampilkan pencapaian dan sertifikat yang saya peroleh.
 ❻ 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝚂𝚎𝚌𝚝𝚒𝚘𝚗
 
-<img width="680" height="198" alt="image" src="https://github.com/user-attachments/assets/7e6b8371-35a8-4df8-a5a4-20e6825082de" />
+<img width="500" height="198" alt="image" src="https://github.com/user-attachments/assets/7e6b8371-35a8-4df8-a5a4-20e6825082de" />
 
+Berisi informasi email dan Instagram.
+Ditampilkan dalam satu baris menggunakan class custom contact-row.
+Section ini berfungsi sebagai media untuk menghubungi saya.
 
 ❼ 𝙵𝚘𝚘𝚝𝚎𝚛
 
 <img width="500" height="81" alt="image" src="https://github.com/user-attachments/assets/47b80bd7-b701-475f-aa64-55ba1c785d2f" />
 
+▪ text-center untuk meratakan teks ke tengah.
 
+▪ py-4 untuk memberi jarak atas dan bawah.
 
+▪ Berfungsi sebagai penutup halaman dan informasi hak cipta.
 
+❽ 𝙱𝚘𝚘𝚝𝚜𝚝𝚛𝚊𝚙 𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝
 
+<img width="870" height="52" alt="image" src="https://github.com/user-attachments/assets/168e7800-1d64-4644-8205-9d508d0531e4" />
+
+Bagian ini digunakan agar fitur interaktif Bootstrap seperti navbar collapse dapat berfungsi dengan baik.
  
-
-
 
 
 ## 💻 𝐓𝐞𝐤𝐧𝐨𝐥𝐨𝐠𝐢 𝐲𝐚𝐧𝐠 𝐃𝐢𝐠𝐮𝐧𝐚𝐤𝐚𝐧 𝐝𝐚𝐥𝐚𝐦 𝐏𝐫𝐨𝐠𝐫𝐚𝐦
